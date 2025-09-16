@@ -1,2 +1,2 @@
-# content-ti-ng-anh
+# Create vocabulary pictures
 .
